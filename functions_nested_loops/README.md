@@ -10,4 +10,3 @@
 9-times_table.c	       Prints the 9 times table, starting with 0
 10-add.c	       Adds two integers and returns the result
 11-print_to_98.c       Prints all natural numbers from n to 98
-100-times_table.c      Prints the n times table, starting with 0
