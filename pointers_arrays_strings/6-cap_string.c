@@ -26,4 +26,3 @@ count++;
 }
 return (s);
 }
-Footer
